@@ -44,7 +44,7 @@ We notice that most of the students **(around 67%)** completed 133 credit hours 
 ## Correlation between CGPA and completed credit hours
 ![image](https://user-images.githubusercontent.com/77892920/215299436-19b92fbe-fccf-4b3d-9c70-afc665ed38db.png)<br>
 Here we notice that students who completed less than average (130) credit hours have a lower average CGPA than students who completed 130 credit hours or more. We also notice one outlier who completed less than average credit hours, yet scored an excellent CGPA.<br>
-This might have happened due to many reasons such as scoring a GPA less 2 in any semester will lead to the student registering less credit credit hours the following semester, *but determining whether that's the case or not will require more data such previous semesters GPA*<br>
+This might have happened due to many reasons such as scoring a GPA less 2 in any semester will lead to the student registering less credit credit hours the following semester, *but determining whether that's the case or not will require more data such previous semesters GPA.*<br>
 ### A more detailed look on CGPA vs completed credit hours
 ![image](https://user-images.githubusercontent.com/77892920/215299882-0c226052-77a9-4ac5-a00b-ee472cf98d12.png)<br>
 
