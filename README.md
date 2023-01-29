@@ -62,4 +62,7 @@ Looking at the above violin plot, we notice that male students' CGPA are more co
 ![image](https://user-images.githubusercontent.com/77892920/215301296-7d837cf0-ec8a-4578-bade-38788d847365.png)
 ### Males' vs Females' Completed Credit Hours
 ![image](https://user-images.githubusercontent.com/77892920/215301319-f4373c9a-b769-46f2-b0f1-7493969721e9.png)<br>
-We conclude that roughly the distribution of male students and female students doesn't change much in both CGPA Ties and completed credit hours.
+We conclude that roughly the distribution of male students and female students doesn't change much in both CGPA Ties and completed credit hours.<br>
+### CGPA vs Completed Credit Hours for Males and Females
+To get a more detailed look at male students data and female students data we plot a scatter graph for CGPA and completed credit hours for both male and female studetns.
+![image](https://user-images.githubusercontent.com/77892920/215302160-fa8bdd99-5d1b-4969-8e09-1d7e87eb4dc2.png)
