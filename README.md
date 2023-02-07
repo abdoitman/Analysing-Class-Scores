@@ -1,4 +1,5 @@
-# **Analysing Class Scores**
+![final](https://user-images.githubusercontent.com/77892920/217127135-3bd37ebe-9ad7-461d-9c1b-1393e4347827.png)
+
 ## Overview
 Analysing a whole class' CGPA and registered credit hours in college. The data was origanally collected from real college students scores and obtained credit hours in a text form containing the IDs, registered credit hours and the CGPA of the students. Then it was converted into excel using a simple python script, after that, it was further organized into an excel workbook adding the name and the gender for each students using another sheet.
 
